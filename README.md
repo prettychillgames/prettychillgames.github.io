@@ -1,2 +1,4 @@
-# prettychillgames.github.io
-Main page for Pretty Chill Games
+# Pretty Chill Games
+## Privacy Policy
+- Hoppy Fox (Paid Version)
+- Hoppy Fox (Free Version - includes ads)
